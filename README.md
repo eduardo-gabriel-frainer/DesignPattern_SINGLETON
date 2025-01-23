@@ -13,3 +13,11 @@ Este projeto foi desenvolvido como parte do aprendizado de padrões de projeto, 
 ## Como funciona
 
 O padrão Singleton garante que uma classe tenha apenas uma instância durante a execução do programa. O método `getInstance()` é usado para acessar a instância única da classe, e o construtor é privado para evitar a criação de múltiplas instâncias.
+
+##Fotos do Sistema
+
+![image](https://github.com/user-attachments/assets/a15ca6db-1154-4080-a1c8-2ddd92a704cc)
+
+![image](https://github.com/user-attachments/assets/9f734237-ec62-44bc-97a5-165e60f685e7)
+
+
