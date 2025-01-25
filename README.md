@@ -22,4 +22,6 @@ O padrão Singleton garante que uma classe tenha apenas uma instância durante a
 
 ![image](https://github.com/user-attachments/assets/9f734237-ec62-44bc-97a5-165e60f685e7)
 
+<hr>
+
 
